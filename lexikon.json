@@ -18,6 +18,16 @@
                 "Ich bin heute walls."
             ],
             "closeWords": ["wallen"]
+        },
+        {
+            "word": "medium ugly",
+            "type": "neologismus",
+            "explanation": "Eine Mischung aus schön und hässlich.",
+            "examples": [
+                "Sie sieht echt nur so medium ugly aus.",
+                "Du bist doch nur medium ugly!"
+            ],
+            "closeWords": []
         }
     ]
 }
